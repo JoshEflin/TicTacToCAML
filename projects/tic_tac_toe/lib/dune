@@ -1,0 +1,5 @@
+(library
+ (name tic_tac_toe)    ; Name of the library
+ (modules display types game state)  ; List of modules
+)
+

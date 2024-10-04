@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/tic_tac_toe/META"
+  "_build/install/default/lib/tic_tac_toe/dune-package"
+  "_build/install/default/lib/tic_tac_toe/opam"
+]
+bin: [
+  "_build/install/default/bin/tic_tac_toe"
+]
