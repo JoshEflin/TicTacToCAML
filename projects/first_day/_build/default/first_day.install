@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/first_day/META"
-  "_build/install/default/lib/first_day/dune-package"
-  "_build/install/default/lib/first_day/opam"
-]
-bin: [
-  "_build/install/default/bin/first_day"
-]

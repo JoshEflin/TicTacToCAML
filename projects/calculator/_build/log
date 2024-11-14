@@ -1,6 +1,0 @@
-# dune init project calculator
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Shared cache location: /home/ragingpenguin/.cache/dune/db
-# Workspace root: /home/ragingpenguin/dev/lang/OCaml/projects/calculator
-# Auto-detected concurrency: 16

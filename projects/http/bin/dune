@@ -1,4 +1,0 @@
-(executable
- (public_name http)
- (name main)
- (libraries http))
